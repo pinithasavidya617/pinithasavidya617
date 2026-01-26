@@ -2,7 +2,6 @@
 
 ## 🏆 Certifications & Badges
 
-![Gemini Educator - Google ](./gemini_badge.png)
 ![Gen AI 101 – Olee.ai](./badge.png)
 
 <!--
