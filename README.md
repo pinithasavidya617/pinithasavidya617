@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🏆 Certifications & Badges
+
+![Gen AI 101 – Olee.ai](./badge.png)
 <!--
 **pinithasavidya617/pinithasavidya617** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
