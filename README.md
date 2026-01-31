@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on<br><br>AI & Software Engineering projects, backend development with Python (FastAPI), and building scalable full-stack apps.<br><br>👯 I’m looking to collaborate on<br><br>Open-source backend projects and AI-powered applications.<br><br>🤝 I’m looking for help with<br><br>Advanced system design and production-level architecture.<br><br>🌱 I’m currently learning<br><br>AI concepts, Python, FastAPI, Java, JavaScript, React, Flutter, Selenium, and SQL.<br><br>💬 Ask me about<br><br>Backend development, REST APIs, database design, and automation testing.<br><br>⚡ Fun fact<br><br>I like structuring systems before writing code.<br>
 
 
@@ -13,9 +13,23 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinithasavidya617&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pinithasavidya617&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=pinithasavidya617&icon=0&color=0)](https://visitcount.itsvg.in)
+[![PETCARE](https://img.shields.io/badge/Project-PETCARE-blue?style=for-the-badge)](https://github.com/DinalSanjula/PETCARE)
+
+**Description:**  
+Animal Welfare & Clinic Management System with role-based access control and reporting features.
+
+**Tech Stack:**  
+FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage API
+
+**My Contributions:**
+- Designed and implemented backend APIs using FastAPI  
+- Database modeling and ORM integration using SQLAlchemy  
+- Enhanced registration flow by adding OTP-based email verification
+- Integrated email service for password reset functionality
+- Integrated email notifications using Brevo  
+- Integrated geolocation services via OpenCage API  
+- Developed frontend forms and fetch-based API integration  
+- Contributed to reporting system and role-based access features
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
