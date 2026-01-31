@@ -20,17 +20,19 @@
 Animal Welfare & Clinic Management System with role-based access control and reporting features.
 
 **Tech Stack:**  
-FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage API
+FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage API • Postman • TestRail
 
 **My Contributions:**
 - Designed and implemented backend APIs using FastAPI  
-- Database modeling and ORM integration using SQLAlchemy  
-- Enhanced registration flow by adding OTP-based email verification
-- Integrated email service for password reset functionality
-- Integrated email notifications using Brevo  
-- Integrated geolocation services via OpenCage API  
-- Developed frontend forms and fetch-based API integration  
-- Contributed to reporting system and role-based access features
+- Designed database models and integrated ORM using SQLAlchemy  
+- Enhanced registration workflow by implementing OTP-based email verification  
+- Integrated email functionality for password reset and system notifications (Brevo)  
+- Integrated geolocation services using OpenCage API  
+- Developed frontend forms and implemented fetch-based API integration  
+- Contributed to reporting features and role-based access control enhancements  
+- Conducted backend API testing using Postman  
+- Managed and executed structured test cases in TestRail  
+- Tested complete feature workflows across frontend–backend integration
 
 ## 📜 Certifications
 
