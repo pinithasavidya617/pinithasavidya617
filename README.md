@@ -32,4 +32,11 @@ FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage AP
 - Developed frontend forms and fetch-based API integration  
 - Contributed to reporting system and role-based access features
 
+## 📜 Certifications
+
+- 🏅 Gemini Certified Educator – Google  
+- 🏅 Gen AI 101 – Olee AI  
+- 🏅 Java (Beginner & Intermediate) – SoloLearn  
+- 🏅 JavaScript (Beginner) – SoloLearn
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
