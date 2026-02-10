@@ -1,4 +1,6 @@
-#  About Me:
+# Hey 👋, I'm Pinitha Savidya
+
+##  About Me:
 🔭 I’m currently working on<br><br>AI & Software Engineering projects, backend development with Python (FastAPI), and building scalable full-stack apps.<br><br>👯 I’m looking to collaborate on<br><br>Open-source backend projects and AI-powered applications.<br><br>🤝 I’m looking for help with<br><br>Advanced system design and production-level architecture.<br><br>🌱 I’m currently learning<br><br>AI concepts, Python, FastAPI, Java, JavaScript, React, Flutter, Selenium, and SQL.<br><br>💬 Ask me about<br><br>Backend development, REST APIs, database design, and automation testing.<br><br>⚡ Fun fact<br><br>I like structuring systems before writing code.<br>
 
 
