@@ -40,6 +40,7 @@ FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage AP
 
 - 🏅 Gemini Certified Educator – Google  
 - 🏅 Gen AI 101 – Olee AI
+- 🏅 RestAPI (Intermediate) – HackerRank
 - 🏅 Python (Basic) – HackerRank
 - 🏅 SQL (Basic) – HackerRank
 - 🏅 Java (Beginner & Intermediate) – SoloLearn  
