@@ -38,6 +38,7 @@ FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage AP
 
 ## 📜 Certifications
 
+- 🏅 PCEP – Certified Entry-Level Python Programmer (Python Institute)
 - 🏅 Gemini Certified Educator – Google  
 - 🏅 Gen AI 101 – Olee AI
 - 🏅 RestAPI (Intermediate) – HackerRank
