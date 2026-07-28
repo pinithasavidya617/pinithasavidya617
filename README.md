@@ -1,50 +1,125 @@
-# Hey 👋, I'm Pinitha Savidya
+<h1 align="center">Hi there, I'm Pinitha Savidya 👋</h1>
 
-##  About Me:
-🔭 I’m currently working on<br><br>AI & Software Engineering projects, backend development with Python (FastAPI), and building scalable full-stack apps.<br><br>👯 I’m looking to collaborate on<br><br>Open-source backend projects and AI-powered applications.<br><br>🤝 I’m looking for help with<br><br>Advanced system design and production-level architecture.<br><br>🌱 I’m currently learning<br><br>AI concepts, Python, FastAPI, Java, JavaScript, React, Flutter, Selenium, and SQL.<br><br>💬 Ask me about<br><br>Backend development, REST APIs, database design, and automation testing.<br><br>⚡ Fun fact<br><br>I like structuring systems before writing code.<br>
+<p align="center">
+Full-Stack Developer • BICT (Hons) Undergraduate • Problem Solver
+</p>
 
+<p align="center">
+Building scalable backend systems, modern web applications, and cross-platform mobile experiences.
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pinitha-savidya-398491201) 
+---
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pinithasavidya617&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pinithasavidya617&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pinithasavidya617&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 👨‍💻 About Me
 
-### 🔝 Top Contributed Repo
+I'm a Full-Stack Developer with a passion for solving real-world problems through software.
 
-[![PETCARE](https://img.shields.io/badge/Project-PETCARE-blue?style=for-the-badge)](https://github.com/DinalSanjula/PETCARE)
+Currently pursuing a **Bachelor of Information and Communication Technology (Honours)** at the **University of Sri Jayewardenepura**, I enjoy designing applications that are practical, maintainable, and user-focused.
 
-**Description:**  
-Animal Welfare & Clinic Management System with role-based access control and reporting features.
+I believe software should do more than work—it should make people's lives easier.
 
-**Tech Stack:**  
-FastAPI • SQLAlchemy • HTML • CSS • JavaScript • Brevo • OpenCage API • Postman • TestRail
+---
 
-**My Contributions:**
-- Designed and implemented backend APIs using FastAPI  
-- Designed database models and integrated ORM using SQLAlchemy  
-- Enhanced registration workflow by implementing OTP-based email verification  
-- Integrated email functionality for password reset and system notifications (Brevo)  
-- Integrated geolocation services using OpenCage API  
-- Developed frontend forms and implemented fetch-based API integration  
-- Contributed to reporting features and role-based access control enhancements  
-- Conducted backend API testing using Postman  
-- Managed and executed structured test cases in TestRail  
-- Tested complete feature workflows across frontend–backend integration
+## 🎓 Education
 
-## 📜 Certifications
+**University of Sri Jayewardenepura**
+- BICT (Hons)
 
-- 🏅 PCEP – Certified Entry-Level Python Programmer (Python Institute)
-- 🏅 Gemini Certified Educator – Google  
-- 🏅 Gen AI 101 – Olee AI
-- 🏅 RestAPI (Intermediate) – HackerRank
-- 🏅 Python (Basic) – HackerRank
-- 🏅 SQL (Basic) – HackerRank
-- 🏅 Java (Beginner & Intermediate) – SoloLearn  
-- 🏅 JavaScript (Beginner) – SoloLearn
+**C-Clarke International Institute of Digital Sciences**
+- Diploma in Advanced AI & Software Engineering
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🏆 Certifications
+
+- 🐍 PCEP – Certified Entry-Level Python Programmer
+
+---
+
+## 💼 Tech Stack
+
+### Programming Languages
+
+- Python
+- Java
+- SQL
+- TypeScript
+- Dart
+- C 
+
+### Backend
+
+- Spring Boot
+- FastAPI
+
+### Frontend
+
+- Angular
+
+### Mobile
+
+- Flutter
+
+### Databases
+
+- PostgreSQL
+- MySQL
+- Microsoft SQL Server
+- MongoDB
+
+### Tools
+
+- Git
+- Docker
+- Postman
+- VS Code
+- IntelliJ IDEA
+- PyCharm
+- WebStorm
+- Android Studio
+
+---
+
+## 🚀 Featured Project
+
+### PETCARE
+
+A professional full-stack web-application focused on delivering a modern and efficient pet care management experience.
+
+---
+
+## 🌱 Currently Learning
+
+- Cloud Technologies (AWS)
+- Software Architecture
+- Clean Architecture
+- Scalable Backend Development
+- System Design
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pinithasavidya617&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinithasavidya617&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pinithasavidya617&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pinitha-savidya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+> *"I enjoy turning ideas into software that solves real problems."*
+```
