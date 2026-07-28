@@ -36,8 +36,12 @@ Currently pursuing a **Bachelor of Information and Communication Technology (Hon
 
 ## 💻 Tech Stack
 
+## 💻 Tech Stack
+
+## 💻 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,dart,typescript,c,spring,fastapi,angular,flutter,postgres,mysql,mongodb,docker,git,postman,idea,pycharm,vscode,androidstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,dart,flutter,typescript,javascript,angular,bootstrap,html,css,c,postgres,mysql,mongodb,docker,git,postman,idea,pycharm,vscode,androidstudio&perline=8" />
 </p>
 
 ---
