@@ -34,47 +34,11 @@ Currently pursuing a **Bachelor of Information and Communication Technology (Hon
 
 ---
 
-## 💼 Tech Stack
+## 💻 Tech Stack
 
-### Programming Languages
-
-- Python
-- Java
-- SQL
-- TypeScript
-- Dart
-- C 
-
-### Backend
-
-- Spring Boot
-- FastAPI
-
-### Frontend
-
-- Angular
-
-### Mobile
-
-- Flutter
-
-### Databases
-
-- PostgreSQL
-- MySQL
-- Microsoft SQL Server
-- MongoDB
-
-### Tools
-
-- Git
-- Docker
-- Postman
-- VS Code
-- IntelliJ IDEA
-- PyCharm
-- WebStorm
-- Android Studio
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,dart,typescript,c,spring,fastapi,angular,flutter,postgres,mysql,mongodb,docker,git,postman,idea,pycharm,vscode,androidstudio&perline=10" />
+</p>
 
 ---
 
