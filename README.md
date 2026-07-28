@@ -120,4 +120,3 @@ A professional full-stack web-application focused on delivering a modern and eff
 ---
 
 > *"I enjoy turning ideas into software that solves real problems."*
-```
