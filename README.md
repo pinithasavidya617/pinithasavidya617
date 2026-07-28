@@ -16,8 +16,6 @@ I'm a Full-Stack Developer with a passion for solving real-world problems throug
 
 Currently pursuing a **Bachelor of Information and Communication Technology (Honours)** at the **University of Sri Jayewardenepura**, I enjoy designing applications that are practical, maintainable, and user-focused.
 
-I believe software should do more than work—it should make people's lives easier.
-
 ---
 
 ## 🎓 Education
@@ -32,7 +30,7 @@ I believe software should do more than work—it should make people's lives easi
 
 ## 🏆 Certifications
 
-- 🐍 PCEP – Certified Entry-Level Python Programmer
+-  PCEP – Certified Entry-Level Python Programmer
 
 ---
 
